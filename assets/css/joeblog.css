@@ -8922,8 +8922,10 @@ button.bg-dark:focus {
 
 .mt-3,
 .my-3 {
-  margin-top: 1rem !important;
-  margin-left: 1rem !important;
+  margin: auto;
+  width: 80%;
+  border: 3px lightblue;
+  padding: 10px;
 }
 
 .mr-3,
@@ -8933,8 +8935,10 @@ button.bg-dark:focus {
 
 .mb-3,
 .my-3 {
-  margin-bottom: 1rem !important;
-  margin-left: 1rem !important;
+  margin: auto;
+  width: 80%;
+  border: 3px lightblue;
+  padding: 10px;
 }
 
 .ml-3,
