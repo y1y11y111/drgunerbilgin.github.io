@@ -8926,6 +8926,7 @@ button.bg-dark:focus {
   width: 80%;
   border: 3px lightblue;
   padding: 10px;
+  font-size: 30px;
 }
 
 .mr-3,
@@ -8939,6 +8940,7 @@ button.bg-dark:focus {
   width: 80%;
   border: 3px lightblue;
   padding: 10px;
+  font-size: 30px;
 }
 
 .ml-3,
