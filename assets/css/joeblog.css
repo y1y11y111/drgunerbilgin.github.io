@@ -8768,6 +8768,8 @@ button.bg-dark:focus {
 .hw-25 {
   height: 25% !important;
   width: 25% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 .w-25 {
