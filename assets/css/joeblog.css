@@ -8766,6 +8766,7 @@ button.bg-dark:focus {
 }
 
 .hw-25 {
+  display: block !important;
   height: 25% !important;
   width: 25% !important;
   margin-left: auto !important;
